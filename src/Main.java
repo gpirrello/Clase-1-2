@@ -19,7 +19,7 @@ public class Main {
                 //  }
                 int numeroinicio = 5;
                 int numerofin = 14;
-                boolean pares = true;
+                boolean pares = false;
 
 
                 while(numeroinicio <= numerofin){
